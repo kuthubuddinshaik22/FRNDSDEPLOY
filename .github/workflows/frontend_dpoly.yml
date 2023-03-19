@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'dpoly'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E8CFA7F91879480596BDF8B1F06A617F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3406C96199304F9E9F4917765F4FF132 }}
           package: .
